@@ -30,15 +30,15 @@ Inicie o servidor:
 uvicorn main:app --reload
 ```
 
-🔑 Endpoints Principais
+## 🔑 Endpoints Principais
 Método	Endpoint	Descrição
-POST	/token	Gera um token JWT
-GET	/users/me	Retorna dados do usuário autenticado
+-POST	/token	Gera um token JWT
+-GET	/users/me	Retorna dados do usuário autenticado
 
 ## 🌌 Tecnologias
-🐍 Python 3
-⚡ FastAPI
-🛢️ PostgreSQL
-🔑 JWT
-🎭 Contribuindo
+-🐍 Python 3
+-⚡ FastAPI
+-🛢️ PostgreSQL
+-🔑 JWT
+-🎭 Contribuindo
 Let's Go 🚀
